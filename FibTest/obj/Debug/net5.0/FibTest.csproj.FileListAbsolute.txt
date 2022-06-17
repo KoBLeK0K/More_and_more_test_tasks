@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.exe
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.deps.json
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.runtimeconfig.json
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.dll
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\ref\FibTest.dll
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\bin\Debug\net5.0\FibTest.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.dll
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\ref\FibTest.dll
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\FibTest\obj\Debug\net5.0\FibTest.genruntimeconfig.cache
