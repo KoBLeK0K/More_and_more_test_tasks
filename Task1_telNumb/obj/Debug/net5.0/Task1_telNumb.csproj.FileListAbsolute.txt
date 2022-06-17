@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.exe
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.deps.json
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.runtimeconfig.json
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.dll
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\ref\Task1_telNumb.dll
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\bin\Debug\net5.0\Task1_telNumb.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.dll
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\ref\Task1_telNumb.dll
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\Task1_telNumb\obj\Debug\net5.0\Task1_telNumb.genruntimeconfig.cache

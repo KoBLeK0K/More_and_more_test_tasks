@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.exe
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.deps.json
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.runtimeconfig.json
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.dll
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\ref\MassWithMethods.dll
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\bin\Debug\net5.0\MassWithMethods.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.dll
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\ref\MassWithMethods.dll
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\MassWithMethods\obj\Debug\net5.0\MassWithMethods.genruntimeconfig.cache

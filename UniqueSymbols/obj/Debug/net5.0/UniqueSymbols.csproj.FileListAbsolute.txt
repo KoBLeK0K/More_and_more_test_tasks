@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.exe
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.deps.json
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.runtimeconfig.json
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.dll
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\ref\UniqueSymbols.dll
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\bin\Debug\net5.0\UniqueSymbols.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.dll
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\ref\UniqueSymbols.dll
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\UniqueSymbols\obj\Debug\net5.0\UniqueSymbols.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.exe
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.deps.json
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.runtimeconfig.json
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.dll
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ref\ParseString.dll
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\bin\Debug\net5.0\ParseString.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.dll
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ref\ParseString.dll
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.pdb
+C:\Users\Admin\source\repos\TestTasksPeton\ParseString\obj\Debug\net5.0\ParseString.genruntimeconfig.cache
